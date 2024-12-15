@@ -1,6 +1,6 @@
 A Readme that contains:
 Team name: Green Team
 Team members and their email addresses: Shayaan, Nathan - ncg38@pitt.edu, Ryan, David
-Description and links to the datasets used: Playing fields - The most playing fields per neighborhood to show the best neighborhood for that. https://data.wprdc.org/dataset/playing-fields
+Description and links to the datasets used: Playing fields - This dataset contains the names and locations of playing fields. https://data.wprdc.org/dataset/playing-fields
 
 A one-sentence overview of your repository, meant for someone who is not familiar with the project: This project was made to find the best neighborhood for greenspaces.
