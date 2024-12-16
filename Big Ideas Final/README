@@ -1,6 +1,9 @@
 A Readme that contains:
 Team name: Green Team
 Team members and their email addresses: Shayaan - shm363@pitt.edu, Nathan - ncg38@pitt.edu, Ryan - rop129@pitt.edu, David - dba11@pitt.edu
-Description and links to the datasets used: Playing fields - This dataset contains the names and locations of playing fields. https://data.wprdc.org/dataset/playing-fields
+
+Description and links to the datasets used: 
+Playing fields - This dataset contains the names and locations of playing fields. https://data.wprdc.org/dataset/playing-fields
+Trees - This dataset includes every public tree in Pittsburgh and several details about them. https://data.wprdc.org/dataset/city-trees
 
 A one-sentence overview of your repository, meant for someone who is not familiar with the project: This project was made to find the best neighborhood for greenspaces.
